@@ -1,5 +1,8 @@
-![Bedrock Logo](Extra/logo.png)
-![Promotional Art Banner](Extra/promobanner.jpeg)
+<center>
+  <img width="300" alt="Minecraft Bedrock Edition Logo" src=Extra/logo.png>
+</center>
+
+
 This is the public repository for Minecraft Bedrock.
 ## Information
 Not affiliated with Microsoft
