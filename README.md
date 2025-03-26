@@ -1,5 +1,4 @@
-# Minecraft Bedrock Edition
-![banner](banner.jpg)
+![logo](logo.png)
 
 This is the public repository for Minecraft Bedrock.
 ## Information
