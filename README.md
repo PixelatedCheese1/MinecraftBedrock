@@ -2,6 +2,7 @@
   <img width="300" alt="Minecraft Bedrock Edition Logo" src=Extra/logo.png>
 </center>
 
+[Official Website](https://minecraft.net)
 
 This is the public repository for Minecraft Bedrock.
 ## Information
